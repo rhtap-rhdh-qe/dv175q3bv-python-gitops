@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dv175q3bv-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dv175q3bv-python
